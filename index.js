@@ -9,5 +9,6 @@ console.log(arr.reverse());
 
 console.log(arr.map((item) => {item + "1"}));
 console.log(arr.map((item) => {item + "1"}));
+let st = 0;
 
 console.log("The end");
